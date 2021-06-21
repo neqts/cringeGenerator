@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cringeGenerator/static/css/main.9db625af.chunk.css",
+    "main.js": "/cringeGenerator/static/js/main.86aaae77.chunk.js",
+    "main.js.map": "/cringeGenerator/static/js/main.86aaae77.chunk.js.map",
+    "runtime-main.js": "/cringeGenerator/static/js/runtime-main.52bdee76.js",
+    "runtime-main.js.map": "/cringeGenerator/static/js/runtime-main.52bdee76.js.map",
+    "static/js/2.1f228e08.chunk.js": "/cringeGenerator/static/js/2.1f228e08.chunk.js",
+    "static/js/2.1f228e08.chunk.js.map": "/cringeGenerator/static/js/2.1f228e08.chunk.js.map",
+    "index.html": "/cringeGenerator/index.html",
+    "static/css/main.9db625af.chunk.css.map": "/cringeGenerator/static/css/main.9db625af.chunk.css.map",
+    "static/js/2.1f228e08.chunk.js.LICENSE.txt": "/cringeGenerator/static/js/2.1f228e08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52bdee76.js",
+    "static/js/2.1f228e08.chunk.js",
+    "static/css/main.9db625af.chunk.css",
+    "static/js/main.86aaae77.chunk.js"
+  ]
+}
